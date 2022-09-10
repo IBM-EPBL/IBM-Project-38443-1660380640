@@ -1,0 +1,17 @@
+THE GESTURE-BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES
+
+CATEGORY:Artifical Intelligence
+
+DOMAIN:Health care
+
+PROBLEM STATEMENT:
+ 
+                                     *The use of doctor-computer interaction devices in the operation room (OR) requires new modalities that support medical imaging manipulation while allowing doctors' hands to remain sterile, supporting their focus of attention, and providing fast response times.                                                                                                                                                                                              
+                                     *In this project we have used Convolutional Neural Network to first train the model on the images of different hand gestures, like showing numbers with fingers as 0,1,2,3,4,5.                                                                                                                                                                      *Then we made a web portal using Flask where user can input any image on which he wants to perform the operations. 
+                                     *Suitable to use in any environment.
+                                     *Make the doctor operate from the place where they are.
+                                     *The system needs to work fastly.
+                                     * It must contain high accuracy.
+
+
+
